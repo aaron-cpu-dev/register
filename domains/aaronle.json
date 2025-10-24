@@ -1,0 +1,9 @@
+{
+  "owner": {
+    "username": "aaron-cpu-dev",
+    "email": "aaronle.139vs@passfwd.com"
+  },
+  "records": {
+    "CNAME": "cname.vercel-dns.com"
+  }
+}
